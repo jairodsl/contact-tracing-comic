@@ -3,7 +3,7 @@
 Este comic explica el funcionamiento de la aplicación alemana de rastreo de Covid-19 llamada DP-3T, usando los famosos personajes Alice y Bob. 
 <article>
 	<p style="text-align: center;">
-    		<img src='/blob/master/panel0001.jpg'/>
+    		<img src='/panel0001.jpg'/>
 		<img src='panel0002.png'/>
 		<img src='panel0003.png'/>
 		<img src='panel0004.png'/>
