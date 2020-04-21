@@ -1,2 +1,3 @@
-# contact-tracing-comic
-This is a copy of the spanish translation for the comic made by Nicky Case to explain how DP-3T (Covid-19 tracing app) works to a wider audience.
+# contact-tracing-comic: Protegiendo las Vidas y la Libertad!
+
+Este comic explica el funcionamiento de la aplicación alemana de rastreo de Covid-19 llamada DP-3T, usando los famosos personajes Alice y Bob. 
